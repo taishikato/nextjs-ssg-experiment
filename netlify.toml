@@ -2,4 +2,3 @@
   from = "/user/:id"
   to = "/user/[id].html"
   status = 301
-  force = true
