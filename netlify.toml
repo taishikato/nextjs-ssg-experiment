@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/user/:id"
-  to = "/user/:id"
-  status = 301
