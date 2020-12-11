@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/user/:id"
-  to = "/user/:id"
+  to = "/user/3"
   status = 301
   force = true
